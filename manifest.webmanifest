@@ -1,0 +1,9 @@
+{
+  "name": "Forge 181",
+  "short_name": "Forge 181",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "lang": "ja"
+}
